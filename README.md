@@ -14,9 +14,9 @@ If you want to contribute, these are some of the tasks ahead:
 
 I can't give a whole lot of time to this project, but I truly love the idea, so I will be thinking about it and experimenting with possibilities in a regular basis. If you have suggestions about the architecture, the behavior of the robot, tools that might facilitate building it, please get in touch here on GitHub or by any of these means:
 
-bernardodesousa@gmail.com
-Reddit: reddit.com/user/bernardosousa
-Twitter: @BernardoSOUSA11
-Facebook: facebook.com/bernardodesousa
+bernardodesousa@gmail.com  
+Reddit: reddit.com/user/bernardosousa  
+Twitter: @BernardoSOUSA11  
+Facebook: facebook.com/bernardodesousa  
 
 Let's build it!
